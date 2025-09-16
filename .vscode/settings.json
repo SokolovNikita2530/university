@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
-        "third-semester/java/lab-1",
-        "third-semester/java/lab-2",
-        "third-semester/java/lab-3"
+        // "third-semester/java/lab-1",
+        // "third-semester/java/lab-2",
+        // "third-semester/java/lab-3",
+        // "third-semester/java/lab-4",
+        "third-semester/java/lab-5",
     ]
 }
