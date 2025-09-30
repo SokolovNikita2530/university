@@ -1,0 +1,36 @@
+task text:
+## Часть 1: Температурный дневник марта
+Задан массив температур за март:
+
+{-2, -5, -2, -4, 3, -6, -2, -1, 5, 1, 1, 0, -1, 0, 3, -1, 2, 5, 2, 4, 4, 0, 6, 1, 4, 6, -1, 2, 4, 7, 11}
+
+markdown
+Копировать код
+
+Необходимо найти:
+
+1. Количество дней с отрицательной температурой.
+2. Были ли дни, когда температура превышала 10 градусов.
+3. Максимальную температуру в первую неделю марта (первые 7 дней).
+
+Дополнительно:
+
+- Среднюю температуру за месяц.
+
+---
+
+## Часть 2: Обработка текста предложения
+В предложении, где слова разделены пробелами и запятыми:
+
+1. Подсчитать количество слов, заканчивающихся на `"es"`.
+2. Вывести слова предложения, упорядоченные по возрастанию длины.
+
+Дополнительно:
+
+- Подсчитать сумму всех целых чисел, встречающихся в предложении.
+
+**Пример предложения:**
+
+They used 233 features including 227 stylometric features and six novel social network-specific features like character-based ones numbers of alphabets, uppercase characters, special characters, word-based ones the total number of words, average word length, the number of words with 1 char, syntactic ones numbers of punctuation marks and functional words, the total number of sentences and many others
+
+done: ?
